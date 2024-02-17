@@ -1,0 +1,14 @@
+{
+  "welcome": "Hi, how can I help you?",
+  "genericError": "Something went wrong. Please try again later.",
+  "typeMessage": "Type you message...",
+  "waitBotResponse": "Please wait for bot response...",
+  "visitor": "Visitor",
+  "expositor": "Exhibitor",
+  "select-expositor-ResponseText": "Hi, I'm a bot. How can i help you?",
+  "select-visitor-ResponseText": "Hi, I'm a bot. How can i help you?",
+  "answerToQuestionToContinue": "Please answer the question to continue.",
+  "clearChat": "Clear chat",
+  "close": "Close",
+  "needHelp": "Need help?"
+}

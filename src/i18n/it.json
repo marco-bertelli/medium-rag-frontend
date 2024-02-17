@@ -1,0 +1,14 @@
+{
+  "welcome": "Ciao! come posso aiutarti?",
+  "genericError": "Qualcosa è andato storto. Riprova più tardi.",
+  "typeMessage": "Scrivi un messaggio...",
+  "waitBotResponse": "Attendi la risposta del bot...",
+  "visitor": "Visitatore",
+  "expositor": "Espositore",
+  "select-expositor-ResponseText": "Grazie della tua risposta. Come posso aiutarti?",
+  "select-visitor-ResponseText": "Grazie della tua risposta. Come posso aiutarti?",
+  "answerToQuestionToContinue": "Rispondi alla domanda per continuare",
+  "clearChat": "Pulisci chat",
+  "close": "Chiudi",
+  "needHelp": "Hai bisogno di aiuto?"
+}

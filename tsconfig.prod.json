@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": false,
+    "skipLibCheck": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "sourceMap": false,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "exclude": ["./node_modules", "./src/types/*.d.ts"],
+    "paths": {
+      "components/*": ["./components/*"],
+      "pages/*": ["./pages/*"],
+      "utils/*": ["./utils/*"],
+      "types/*": ["./types/*"],
+      "store/*": ["./store/*"],
+      "guards/*": ["./guards/*"],
+      "hooks/*": ["./hooks/*"],
+      "api/*": ["./api/*"],
+      "constants/*": ["./constants/*"],
+      "i18n/*": ["./i18n/*"],
+      "services/*": ["./services/*"],
+      "layouts/*": ["./layouts/*"]
+    }
+  },
+  "include": ["src"]
+}
